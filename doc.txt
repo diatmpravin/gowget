@@ -1,0 +1,10 @@
+Used Package:
+
+ - net/http to do the requests
+ - os for writing the files,
+ - io for Copy,
+ - time for the sleeping and
+ - fmt for the printing
+
+
+ Used Sourcegraph to get similar codebase.
